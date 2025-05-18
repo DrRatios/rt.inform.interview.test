@@ -1,4 +1,4 @@
-package com.aleksgolds.rtinform.interview.tests;
+package com.aleksgolds.rtinform.interview.tests.java;
 
 import java.io.Serializable;
 import java.util.*;
